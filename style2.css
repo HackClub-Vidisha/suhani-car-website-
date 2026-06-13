@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    color: #15356f;
+    font-size: 50px;
+}
+h3{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+}
+.Paragraph1{
+    text-align: center;
+}
+.Gif1{
+    margin-left: 250px;
+    width: 450px
+}
+.Gif2{
+    width: 450px
+}
+.Ford{
+    width: 450px
+}
+.Paragraph2{
+    text-align: center;
+}
+.Gif3{
+    width: 450px;
+    height: auto;
+    margin-left: 250px;
+}
+.Dodge{
+    width: 450px
+}
+.Gif4{
+    width: 450px
+}
+.Paragraph3{
+    text-align: center;
+}
+.Gif5{
+    width: 450px;
+    margin-left: 250px;
+}
+.Challenger{
+    width:450px
+}
+.Gif6{
+    width:450px
+}
+h1{
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h6{
+  font-family: "Offside", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h4{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.Nav{
+    display: flex;}
+    .vintage{
+    margin-left: 20PX;
+}
+.Home{
+    margin-left: 800px;
+}
+.Muscle-cars{
+    margin-left: 20px;
+}

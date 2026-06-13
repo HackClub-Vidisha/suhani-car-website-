@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+}
+.Gif1{
+    width: 450px;
+}
+.Phantom{
+    width:450px
+}
+.Car1{
+    width:450px
+}
+.Car2{
+    width:450px;
+}
+.Car3{
+    width:555px
+}
+.Benz{
+    width:520px
+}
+.J{
+    width: 450px;
+}
+.Berg{
+    width: 450px;
+}
+.Model{
+    width:430px
+}
+h1{
+    color: #13386f;
+    font-size: 50px;
+}
+p{
+    color:#0d1b2a
+}
+h3{
+    color: #34495e;
+}
+h6{
+    color: #34495e;
+}
+h5{
+    color:#34495e
+}
+h4{
+    color:#13386f
+}
+h1{
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h6{
+  font-family: "Offside", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    }
+h4{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.Nav{
+    display: flex;}
+    .vintage{
+    margin-left: 20PX;
+}
+.Home{
+    margin-left: 800px;
+}
+.Muscle-cars{
+    margin-left: 20px;
+}
